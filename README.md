@@ -1,4 +1,4 @@
-### Ohio Childrens Opportunity Index
+### Ohio Children's Opportunity Index
 
 ### Translating Research into Practice: construction, visualization, and applications of the Ohio Children’s Opportunity Index
 #### Members: Priti Singh[1], PhD, MS (Construction of COI); Ian Dunn[2], MPH, GISP (COI aggregation at Zip Code level); Pallavi Jonnalagadda[1], MBBS, DrPH (Visualization of COI using Tableau); and Christine Swoboda[1], PhD, MS (Applications of COI);
@@ -16,9 +16,19 @@ Summary
 Area-level measures of deprivation account for social determinants of health (SDoH) factors at the geographic level. These indices have been successfully used in other countries for resource allocation. The State of Ohio, through the Ohio Department of Medicaid, tasked researchers at the Ohio State University with the development of an area-level measure of SDoH relevant to children’s outcomes known as the Ohio Children’s Opportunity Index (COI). Further, a dashboard tool for the visualization of COI to end-users was needed. The workshop covers the following modules: a. Input data selection and extraction for the Ohio COI b. Construction of the COI: the compilation of 53 measures in eight domains to construct the COI c. Alternative approaches to weighting the COI: use of latent class analysis to combine the eight domains into the COI and equally-weighting all eight domains to construct the COI d. Visualization of COI using Tableau: visualizations to effectively present COI using Tableau e. Applications of COI: use cases of COI for end-users from public health agencies
 
 The goal of our workshop is to present an approach for the development, visualization, and communication of an area-level deprivation measure that can be easily adopted by audience members to their own SDoH context and problems. Our approach, moreover, engenders a user-centered design philiosphy that engages key stakeholders as co-creators of our measures and their associated tools. This approach ensures their sustained and meaningful use over time, which we will also highlight during our workshop.
-Introduction
 
-Individual factors alone have been insufficient in capturing determinants of disease thereby making the spatial context important. The relationship between deprivation in terms of place of residence, access to healthy food, water and sanitation and health has been recognized for centuries. 1 The high rate of infant mortality in Ohio, 2,3 and the wide disparity in infant mortality rate between infants born to White and Black mothers 3 provided the Ohio Department of Medicaid (ODM) with the impetus for the creation and visualization of the Ohio Opportunity Index (OI) 4 and the Ohio Childrens Opportunity Index (COI) as part of the Infant Mortality Project. Our team has successfully presented the Ohio OI through an interactive analytical dashboard. 4 The ODM indicated a similar dashboard for the Ohio COI. The Ohio COI is a measure of area-level SDoH composed of 53 measures spanning eight domains. Our team used an iterative and user-centered design approach to develop the Ohio COI dashboard.
+### Introduction
+
+Individual factors alone have been insufficient in capturing determinants of disease thereby making the spatial context important. The relationship between deprivation in terms of place of residence, access to healthy food, water and sanitation and health has been recognized for centuries.[1] [[1]](#1) The high rate of infant mortality in Ohio, [2,3] and the wide disparity in infant mortality rate between infants born to White and Black mothers 3 provided the Ohio Department of Medicaid (ODM) with the impetus for the creation and visualization of the Ohio Opportunity Index (OI) [4] and the Ohio Childrens Opportunity Index (COI) as part of the Infant Mortality Project. Our team has successfully presented the Ohio OI through an interactive analytical dashboard. [4] The ODM indicated a similar dashboard for the Ohio COI. The Ohio COI is a measure of area-level SDoH composed of 53 measures spanning eight domains. Our team used an iterative and user-centered design approach to develop the Ohio COI dashboard.
+
+
+## References
+<a id="1">[1]</a> 
+Dijkstra, E. W. (1968). 
+Go to statement considered harmful. 
+Communications of the ACM, 11(3), 147-148
+
+
 
 This workshop is divided into the following modules: input data selection and extraction for the Ohio COI, the cons
 
