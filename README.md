@@ -27,6 +27,7 @@ Individual factors alone have been insufficient in capturing determinants of dis
 This workshop is divided into the following modules: 1-Input, data selection, and extraction for the Ohio COI,; 2-Construction of the COI; 3-Aggregation of COI; 4-Visualization of the COI & 5-Application of the COI.
 
 # Modules 1 & 2
+
 <details>
   <summary>Click to expand!</summary>
   
@@ -46,9 +47,8 @@ We will walk the audience through the construction of the Ohio COI based on the 
 
 {% include youtubePlayer.html id="yhYXBpB9tkM" %}
 
-[Modules 1 & 2 slides](https://github.com/OEIcat/AMIA_Workshop/raw/Introduction/AMIA_Slides.pdf)
+[Modules 1 & 2 slides](https://github.com/ChildrensOpportunityIndex/The-Ohio-Opportunity-Index-Project/raw/main/AMIA_Slides.pptx)
 
-[Modules 1 & 2 video]
 
 
 # Module 3
