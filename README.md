@@ -80,20 +80,22 @@ Our team used an iterative user-centered design approach to develop the Ohio COI
 {% include youtubePlayer.html id="Y7Ux5ia1FoE" %}
 
 
-[Module 4 slides](https://github.com/ChildrensOpportunityIndex/The-Ohio-Opportunity-Index-Project/raw/main/AMIA-presentationv2.pdf)
+[Module 4 slides] (https://github.com/ChildrensOpportunityIndex/The-Ohio-Opportunity-Index-Project/raw/main/AMIA-presentationv2.pdf)
 
 </details>
 
 # Module 5
+
 <details>
   <summary>Click to expand!</summary>
   
 ### Module 5: Applications of the Ohio COI
+
 In this module, we describe real-life scenarios on how the Ohio COI can be used by key stakeholders. Our example pertains to a public health program manager trying to gain a better understanding of infant outcomes in certain geographic areas. In this example, we will demonstrate how the program manager can assess the Ohio COI and its individual domains, but also visually examine other characteristics of the areas under consideration like the race and ethnic make-up, the social vulnerability index, and the change in scores over time. 
 
 {% include youtubePlayer.html id="xC6JFpjRc2k" %}
 
-[Module 5 slides](https://github.com/ChildrensOpportunityIndex/The-Ohio-Opportunity-Index-Project/raw/main/AMIA_PowerPoint_Template_2021%20CMS%20slides.pdf
+[Module 5 slides] (https://github.com/ChildrensOpportunityIndex/The-Ohio-Opportunity-Index-Project/raw/main/AMIA_PowerPoint_Template_2021%20CMS%20slides.pdf)
 
 
 </details>
