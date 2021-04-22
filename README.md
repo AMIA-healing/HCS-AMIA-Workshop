@@ -31,7 +31,6 @@ This workshop is divided into the following modules: 1-Input, data selection, an
 ## Module 1: Input data selection and extraction for the Ohio COI
 
 In this module, we will discuss the decisions involved in the selection of input data for the construction of the Ohio COI. Further, we will describe the extraction of data from multiple sources and linkage of the information by Census Tract across data sets.
-
   
 ## Module 2: Construction of the Ohio COI
 
@@ -45,8 +44,6 @@ We will walk the audience through the construction of the Ohio COI based on the 
 [Modules 1 & 2 slides](https://github.com/ChildrensOpportunityIndex/The-Ohio-Opportunity-Index-Project/raw/main/AMIA_Slides.pptx)
 
 # Module 3
-<details>
-  <summary>Click to expand!</summary>
 
 ## Module 3: Ohio COI aggregation at Zip Code level 
 
