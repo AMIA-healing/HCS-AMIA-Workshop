@@ -10,7 +10,7 @@
 ###### [2]Government Resource Center, The Ohio State University, Columbus, Ohio
 
 
-###### Areas of focus 
+### Areas of focus 
 
 ● Familiarize oneself with the decisions involved in data selection and extraction to construct an area-level index of opportunity 
 ● Construct a multi-year area-level index of opportunity using R Studio and R Markdown 
