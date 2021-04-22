@@ -42,13 +42,14 @@ We will walk the audience through the construction of the Ohio COI based on the 
 2.	Demonstrate two approaches our team used for the development of the Ohio COI and explain the preference of one approach over the other. For the initial development of the Ohio COI, we followed a previously described approach [[5]](#5)[[6]](#6) of latent factor analysis to assign weights to each of the eight domains. Our team also used an approach where each domain was equally weighted. We will walk the audience through constructing the weighted and unweighted indices during our workshop. 
 3.	Show examples of how area level SDoH measures can be validated using existing measures that are publicly available. This will also involve describing results from our validation study of the Ohio COI by assessing its association with health indicators like life expectancy, and racial distribution. 
 
+</details>
+
 {% include youtubePlayer.html id="yhYXBpB9tkM" %}
 
 [Modules 1 & 2 slides](https://github.com/OEIcat/AMIA_Workshop/raw/Introduction/AMIA_Slides.pdf)
 
 [Modules 1 & 2 video]
 
-</details>
 
 # Module 3
 <details>
