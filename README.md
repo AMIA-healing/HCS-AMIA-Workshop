@@ -22,10 +22,20 @@ Area-level measures of deprivation account for social determinants of health (SD
 The goal of our workshop is to present an approach for the development, visualization, and communication of an area-level deprivation measure that can be easily adopted by audience members to their own SDoH context and problems. Our approach, moreover, engenders a user-centered design philiosphy that engages key stakeholders as co-creators of our measures and their associated tools. This approach ensures their sustained and meaningful use over time, which we will also highlight during our workshop.
 
 ### Introduction
+
+{::options parse_block_html="true" /}
+
+<details><summary markdown="span">Let's see some code!</summary>
+
+```
+{::options parse_block_html="false" /}
 Individual factors alone have been insufficient in capturing determinants of disease thereby making the spatial context important. The relationship between deprivation in terms of place of residence, access to healthy food, water and sanitation, and health has been recognized for centuries. [[1]](#1) The high rate of infant mortality in Ohio,(#2)[[2,3]](#3) and the wide disparity in infant mortality rate between infants born to White and Black mothers [[3]](#3) provided the Ohio Department of Medicaid (ODM) with the impetus for the creation and visualization of the Ohio Opportunity Index (OI) [[4]](#4) and the Ohio Childrens Opportunity Index (COI) as part of the Infant Mortality Project. Our team has successfully presented the Ohio OI through an interactive analytical dashboard. [[4]](#4) The ODM indicated a similar dashboard for the Ohio COI. The Ohio COI is a measure of area-level SDoH composed of 53 measures spanning eight domains. Our team used an iterative and user-centered design approach to develop the Ohio COI dashboard.
 
 This workshop is divided into the following modules: 1-Input, data selection, and extraction for the Ohio COI,; 2-Construction of the COI; 3-Aggregation of COI; 4-Visualization of the COI & 5-Application of the COI.
-
+```
+Of course, it has to be Hello World, right?
+</details>
+<br/>
 
 # Modules 1 & 2
 <details>
