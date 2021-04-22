@@ -50,6 +50,8 @@ We will walk the audience through the construction of the Ohio COI based on the 
 
 [Modules 1 & 2 slides](https://github.com/OEIcat/AMIA_Workshop/raw/Introduction/AMIA_Slides.pdf)
 
+
+
 [Modules 1 & 2 video]
 
 </details>
@@ -64,6 +66,9 @@ In this module we will walk the audience through how to aggregate the Ohio COI t
 {% include youtubePlayer.html id="JZO4I3XpZvc" %}
 
 [Module 3 slides](https://github.com/ChildrensOpportunityIndex/The-Ohio-Opportunity-Index-Project/raw/main/W13_ZipCode_Ian.pdf)
+
+
+<a href="ChildresOpportunityIndex.github.io/The-Ohio-Opportunity-Index-Project/raw/main/W13_ZipCode_Ian.pdf" target="_blank">PDF.</a>
 
 
 [Module 3 Video]
