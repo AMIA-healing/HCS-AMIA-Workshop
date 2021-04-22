@@ -29,18 +29,13 @@ Individual factors alone have been insufficient in capturing determinants of dis
 
 This workshop is divided into the following modules: 1-Input, data selection, and extraction for the Ohio COI,; 2-Construction of the COI; 3-Aggregation of COI; 4-Visualization of the COI & 5-Application of the COI.
 
-# Module 1
+# Modules 1 & 2
 <details>
   <summary>Click to expand!</summary>
   
 ### Module 1: Input data selection and extraction for the Ohio COI
 In this module, we will discuss the decisions involved in the selection of input data for the construction of the Ohio COI. Further, we will describe the extraction of data from multiple sources and linkage of the information by Census Tract across data sets.
 
-</details>
-
-# Module 2
-<details>
-  <summary>Click to expand!</summary>
   
 ### Module 2: Construction of the Ohio COI
 We will walk the audience through the construction of the Ohio COI based on the seminal approach that is the foundation for several well-known area level SDoH measures used internationally and in the US. [[5,6]](#5)(#6) In this module, we will:
@@ -56,7 +51,7 @@ We will walk the audience through the construction of the Ohio COI based on the 
 
 </details>
 
-# Module 2
+# Module 3
 <details>
   <summary>Click to expand!</summary>
 
@@ -71,8 +66,7 @@ In this module we will walk the audience through how to aggregate the Ohio COI t
 
 </details>
 
-
-# Module 2
+# Module 4
 <details>
   <summary>Click to expand!</summary>
 
@@ -90,7 +84,7 @@ Our team used an iterative user-centered design approach to develop the Ohio COI
 
 </details>
 
-# Module 2
+# Module 5
 <details>
   <summary>Click to expand!</summary>
   
