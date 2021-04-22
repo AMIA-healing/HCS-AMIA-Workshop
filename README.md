@@ -1,16 +1,21 @@
 
-### Ohio Childrens Opportunity Index
+# The Ohio Opportunity Index Project
+## The Children's Opportunity Index
 
 ### Translating Research into Practice: construction, visualization, and applications of the Ohio Children’s Opportunity Index
 #### Members: Priti Singh[1], PhD, MS (Construction of COI); Ian Dunn[2], MPH, GISP (COI aggregation at Zip Code level); Pallavi Jonnalagadda[1], MBBS, DrPH (Visualization of COI using Tableau); and Christine Swoboda[1], PhD, MS (Applications of COI);
-#### Organizer: Naleef Fareed[1], PhD, MBA
+#### Study Lead: Naleef Fareed[1], PhD, MBA
+
 ###### [1]College of Medicine, The Ohio State University, Columbus, Ohio
 ###### [2]Government Resource Center, The Ohio State University, Columbus, Ohio
 
 
 ###### What will the attendee be able to do after being in your session?
 
-● Familiarize oneself with the decisions involved in data selection and extraction to construct an area-level index of opportunity ● Construct a multi-year area-level index of opportunity using R Studio and R Markdown ● Apply different approaches to aggregate area-level indices of opportunity at the Zip Code level using Esri’s ArcGIS ● Develop visualizations of opportunity indices using an off the shelf software: Tableau ● Learn how public health agencies can use the information.
+● Familiarize oneself with the decisions involved in data selection and extraction to construct an area-level index of opportunity 
+● Construct a multi-year area-level index of opportunity using R Studio and R Markdown 
+● Apply different approaches to aggregate area-level indices of opportunity at the Zip Code level using Esri’s ArcGIS ● Develop visualizations of opportunity indices using an off the shelf software: Tableau 
+● Learn how public health agencies can use the information.
 
 Summary
 
