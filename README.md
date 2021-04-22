@@ -10,23 +10,25 @@
 ###### [2]Government Resource Center, The Ohio State University, Columbus, Ohio
 
 
-###### What will the attendee be able to do after being in your session?
+###### Areas of focus 
 
 ● Familiarize oneself with the decisions involved in data selection and extraction to construct an area-level index of opportunity 
 ● Construct a multi-year area-level index of opportunity using R Studio and R Markdown 
 ● Apply different approaches to aggregate area-level indices of opportunity at the Zip Code level using Esri’s ArcGIS ● Develop visualizations of opportunity indices using an off the shelf software: Tableau 
 ● Learn how public health agencies can use the information.
 
-Summary
+Overivew
 
-Area-level measures of deprivation account for social determinants of health (SDoH) factors at the geographic level. These indices have been successfully used in other countries for resource allocation. The State of Ohio, through the Ohio Department of Medicaid, tasked researchers at the Ohio State University with the development of an area-level measure of SDoH relevant to children’s outcomes known as the Ohio Children’s Opportunity Index (COI). Further, a dashboard tool for the visualization of COI to end-users was needed. The workshop covers the following modules: a. Input data selection and extraction for the Ohio COI b. Construction of the COI: the compilation of 53 measures in eight domains to construct the COI c. Alternative approaches to weighting the COI: use of latent class analysis to combine the eight domains into the COI and equally-weighting all eight domains to construct the COI d. Visualization of COI using Tableau: visualizations to effectively present COI using Tableau e. Applications of COI: use cases of COI for end-users from public health agencies
+Area-level measures of deprivation account for social determinants of health (SDoH) factors at the geographic level. These indices have been successfully used in other countries for resource allocation. The State of Ohio, through the Ohio Department of Medicaid, tasked researchers at the Ohio State University with the development of an area-level measure of SDoH relevant to children’s outcomes known as the Ohio Children’s Opportunity Index (COI). A dashboard tool for the visualization of COI to end-users was needed. The workshop covers the following modules: a. Input data selection and extraction for the Ohio COI b. Construction of the COI: the compilation of 53 measures in eight domains to construct the COI. Alternative approaches to weighting the COI: use of latent class analysis to combine the eight domains into the COI and equally-weighting all eight domains to construct the COI d. Visualization of COI using Tableau: visualizations to effectively present COI using Tableau e. Applications of COI: use cases of COI for end-users from public health agencies
 
 The goal of our workshop is to present an approach for the development, visualization, and communication of an area-level deprivation measure that can be easily adopted by audience members to their own SDoH context and problems. Our approach, moreover, engenders a user-centered design philiosphy that engages key stakeholders as co-creators of our measures and their associated tools. This approach ensures their sustained and meaningful use over time, which we will also highlight during our workshop.
+
 Introduction
 
 Individual factors alone have been insufficient in capturing determinants of disease thereby making the spatial context important. The relationship between deprivation in terms of place of residence, access to healthy food, water and sanitation and health has been recognized for centuries. 1 The high rate of infant mortality in Ohio, 2,3 and the wide disparity in infant mortality rate between infants born to White and Black mothers 3 provided the Ohio Department of Medicaid (ODM) with the impetus for the creation and visualization of the Ohio Opportunity Index (OI) 4 and the Ohio Childrens Opportunity Index (COI) as part of the Infant Mortality Project. Our team has successfully presented the Ohio OI through an interactive analytical dashboard. 4 The ODM indicated a similar dashboard for the Ohio COI. The Ohio COI is a measure of area-level SDoH composed of 53 measures spanning eight domains. Our team used an iterative and user-centered design approach to develop the Ohio COI dashboard.
 
-This workshop is divided into the following modules: input data selection and extraction for the Ohio COI, the cons
+This workshop is divided into the following modules: input data selection and extraction for the Ohio COI, the construction,....????
+
 ### Module 1: Input data selection and extraction for the Ohio COI
 In this module, we will discuss the decisions involved in the selection of input data for the construction of the Ohio COI. Further, we will describe the extraction of data from multiple sources and linkage of the information by Census Tract across data sets.
 
@@ -77,7 +79,6 @@ In this module, we describe real-life scenarios on how the Ohio COI can be used 
 [Module 5 video]
 
 
-Discussion
 The evidence base for SDoH measures indicates their strong potential to influence the health outcomes of individuals and populations. Another emerging evidence base for data visualization suggests that systematic, user-centered development of tools such as dashboards result in sustainable and effective use of such tools by end-users. Our workshop will fill two critical gaps: 1) it will reveal the inner workings of an area-level SDoH measure; allowing audience members to understand and interpret such measures, which they can later explain to their stakeholders when developing similar measures; and 2) it will provide them with a set of tools on the systematic design, development, and deployment of dashboards to visualize and analyze the SDoH measure. 
 
 There is a critical need to incorporate research findings in to practice in this field. Current practices around SDoH indices need critical thought around development, communication, and use. Our five-module workshop – focused on data selection, construction, aggregation, visualization, and application – will help participants to gain expert insights on how to effectively engage in these vastly different aspects of deploying an area-level SDoH measure that leverages knowledge from multiple disciplines, that include informatics, geospatial science, public health, and user experience. Our tool can also be incorporated in to the electronic health record through FHIR and SMART applications, which will be the topic of a future workshop at AMIA. 
