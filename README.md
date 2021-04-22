@@ -38,7 +38,10 @@ In this module, we will discuss the decisions involved in the selection of input
 
 </details>
 
-
+# Module 2
+<details>
+  <summary>Click to expand!</summary>
+  
 ### Module 2: Construction of the Ohio COI
 We will walk the audience through the construction of the Ohio COI based on the seminal approach that is the foundation for several well-known area level SDoH measures used internationally and in the US. [[5,6]](#5)(#6) In this module, we will:
 1.	Demonstrate the multi-step approach proposed by the authors of the seminal study, which we adapted for the Ohio COI using R and R Studio. This step will also involve showing the audience how to develop an area level SDoH measures for multiple time periods. 
@@ -51,6 +54,12 @@ We will walk the audience through the construction of the Ohio COI based on the 
 
 [Modules 1 & 2 video]
 
+</details>
+
+# Module 2
+<details>
+  <summary>Click to expand!</summary>
+
 ### Module 3: Ohio COI aggregation at Zip Code level 
 In this module we will walk the audience through how to aggregate the Ohio COI to the Zip Code level. A Zip Code is not an inherent geographic unit with defined boundaries, but a unique code used by the United State Postal Service to group addresses together to aid in mail delivery. Zip Codes are often used in public health to collect and report data because they are more common to the general public than geographic units such as the Census Tract. Zip Codes and Census Tracts do not share geographic commonalities which makes aggregating data collected at the Census Tract level to the Zip Code a challenge. We will demonstrate various geospatial approaches using Esri’s ArcGIS software to aggregate COI values to Zip Codes. These methods can also be used to aggregate data between any geographic units that do not share common boundaries (e.g. drive time radii and census tracts).
 
@@ -59,6 +68,13 @@ In this module we will walk the audience through how to aggregate the Ohio COI t
 [Module 3 slides](https://github.com/OEIcat/AMIA_Workshop/raw/Introduction/W13_ZipCode_Ian.pdf)
 
 [Module 3 Video]
+
+</details>
+
+
+# Module 2
+<details>
+  <summary>Click to expand!</summary>
 
 ### Module 4: Visualization of the Ohio COI using Tableau
 Our team used an iterative user-centered design approach to develop the Ohio COI dashboard and used Tableau to create various components of the dashboard. In this module we will:
@@ -72,6 +88,12 @@ Our team used an iterative user-centered design approach to develop the Ohio COI
 
 [Module 4 video]
 
+</details>
+
+# Module 2
+<details>
+  <summary>Click to expand!</summary>
+  
 ### Module 5: Applications of the Ohio COI
 In this module, we describe real-life scenarios on how the Ohio COI can be used by key stakeholders. Our example pertains to a public health program manager trying to gain a better understanding of infant outcomes in certain geographic areas. In this example, we will demonstrate how the program manager can assess the Ohio COI and its individual domains, but also visually examine other characteristics of the areas under consideration like the race and ethnic make-up, the social vulnerability index, and the change in scores over time. 
 
@@ -80,6 +102,8 @@ In this module, we describe real-life scenarios on how the Ohio COI can be used 
 [Module 5 slides](https://github.com/OEIcat/AMIA_Workshop/raw/Introduction/AMIA_PowerPoint_Template_2021%20CMS%20slides.pdf)
 
 [Module 5 video]
+
+</details>
 
 ### Discussion
 The evidence base for SDoH measures indicates their strong potential to influence the health outcomes of individuals and populations. Another emerging evidence base for data visualization suggests that systematic, user-centered development of tools such as dashboards result in sustainable and effective use of such tools by end-users. Our workshop will fill two critical gaps: 1) it will reveal the inner workings of an area-level SDoH measure; allowing audience members to understand and interpret such measures, which they can later explain to their stakeholders when developing similar measures; and 2) it will provide them with a set of tools on the systematic design, development, and deployment of dashboards to visualize and analyze the SDoH measure. 
