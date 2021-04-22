@@ -80,7 +80,7 @@ Our team used an iterative user-centered design approach to develop the Ohio COI
 {% include youtubePlayer.html id="Y7Ux5ia1FoE" %}
 
 
-[Module 4 slides] (https://github.com/ChildrensOpportunityIndex/The-Ohio-Opportunity-Index-Project/raw/main/AMIA-presentationv2.pdf)
+[Module 4 slides](https://github.com/ChildrensOpportunityIndex/The-Ohio-Opportunity-Index-Project/raw/main/AMIA-presentationv2.pdf)
 
 </details>
 
@@ -95,7 +95,7 @@ In this module, we describe real-life scenarios on how the Ohio COI can be used 
 
 {% include youtubePlayer.html id="xC6JFpjRc2k" %}
 
-[Module 5 slides] (https://github.com/ChildrensOpportunityIndex/The-Ohio-Opportunity-Index-Project/raw/main/AMIA_PowerPoint_Template_2021%20CMS%20slides.pdf)
+[Module 5 slides](https://github.com/ChildrensOpportunityIndex/The-Ohio-Opportunity-Index-Project/raw/main/AMIA_PowerPoint_Template_2021%20CMS%20slides.pdf)
 
 
 </details>
