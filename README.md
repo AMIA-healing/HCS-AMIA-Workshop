@@ -25,7 +25,7 @@ The goal of our workshop is to present an approach for the development, visualiz
 
 ### Introduction
 
-Individual factors alone have been insufficient in capturing determinants of disease thereby making the spatial context important. The relationship between deprivation in terms of place of residence, access to healthy food, water and sanitation, and health has been recognized for centuries. [[1]](#1) The high rate of infant mortality in Ohio,(#2)[[2,3]](#3) and the wide disparity in infant mortality rate between infants born to White and Black mothers 3 provided the Ohio Department of Medicaid (ODM) with the impetus for the creation and visualization of the Ohio Opportunity Index (OI) 4 and the Ohio Childrens Opportunity Index (COI) as part of the Infant Mortality Project. Our team has successfully presented the Ohio OI through an interactive analytical dashboard. 4 The ODM indicated a similar dashboard for the Ohio COI. The Ohio COI is a measure of area-level SDoH composed of 53 measures spanning eight domains. Our team used an iterative and user-centered design approach to develop the Ohio COI dashboard.
+Individual factors alone have been insufficient in capturing determinants of disease thereby making the spatial context important. The relationship between deprivation in terms of place of residence, access to healthy food, water and sanitation, and health has been recognized for centuries. [[1]](#1) The high rate of infant mortality in Ohio,(#2)[[2,3]](#3) and the wide disparity in infant mortality rate between infants born to White and Black mothers  [[3]](#3) provided the Ohio Department of Medicaid (ODM) with the impetus for the creation and visualization of the Ohio Opportunity Index (OI) [[4]](#4) and the Ohio Childrens Opportunity Index (COI) as part of the Infant Mortality Project. Our team has successfully presented the Ohio OI through an interactive analytical dashboard. [[4]](#4) The ODM indicated a similar dashboard for the Ohio COI. The Ohio COI is a measure of area-level SDoH composed of 53 measures spanning eight domains. Our team used an iterative and user-centered design approach to develop the Ohio COI dashboard.
 
 This workshop is divided into the following modules: 1-Input, data selection, and extraction for the Ohio COI,; 2-Construction of the COI; 3-Aggregation of COI; 4-Visualization of the COI & 5-Application of the COI.
 
@@ -104,5 +104,21 @@ https://www.cdc.gov/nchs/pressroom/sosmap/infant_mortality_rates/infant_mortalit
 Infant Mortality Report.(2018). 
 Ohio Departement of Health 
 https://odh.ohio.gov/wps/wcm/connect/gov/dd1865c0-909c-4378-a8e0-61e28364bbae/2018+Ohio+Infant+Mortality+Report.pdf?MOD=AJPERES&CONVERT_TO=url&CACHEID=ROOTWORKSPACE.Z18_M1HGGIK0N0JO00QO9DDDDM3000-dd1865c0-909c-4378-a8e0-61e28364bbae-n1Z1tQk
+
+<a id="4">[4]</a> 
+Fareed N, Swoboda CM, Jonnalagadda P, Griesenbrock T, Gureddygari HR, Aldrich A.(2020). 
+Visualizing Opportunity Index Data Using a Dashboard Application: A Tool to Communicate Infant Mortality based Area Deprivation Index Information.
+https://odh.ohio.gov/wps/wcm/connect/gov/dd1865c0-909c-4378-a8e0-61e28364bbae/2018+Ohio+Infant+Mortality+Report.pdf?MOD=AJPERES&CONVERT_TO=url&
+Applied Clinical Informatics, 11(04): 515-527
+
+<a id="5">[5]</a> 
+Townsend P, Phillimore P, Beattie A. (1988). 
+Health and Deprivation : Inequality and the North..
+Nurs Stand. Jan 30;2(17):34. doi: 10.7748/ns.2.17.34.s66. 
+
+<a id="6">[6]</a> 
+Noble M, Wright G, Smith G, Dibben C.(2006). 
+Measuring Multiple Deprivation at the Small-Area Level.
+Environment and Planning A: Economy and Space.2006;38(1):169-185. doi:10.1068/a37168.
 
 
