@@ -63,8 +63,6 @@ We will walk the audience through the construction of the Ohio COI based on the 
 ### Module 3: Ohio COI aggregation at Zip Code level 
 In this module we will walk the audience through how to aggregate the Ohio COI to the Zip Code level. A Zip Code is not an inherent geographic unit with defined boundaries, but a unique code used by the United State Postal Service to group addresses together to aid in mail delivery. Zip Codes are often used in public health to collect and report data because they are more common to the general public than geographic units such as the Census Tract. Zip Codes and Census Tracts do not share geographic commonalities which makes aggregating data collected at the Census Tract level to the Zip Code a challenge. We will demonstrate various geospatial approaches using Esri’s ArcGIS software to aggregate COI values to Zip Codes. These methods can also be used to aggregate data between any geographic units that do not share common boundaries (e.g. drive time radii and census tracts).
 
-<a href="/https://github.com/ChildrensOpportunityIndex/The-Ohio-Opportunity-Index-Project/raw/main/W13_ZipCode_Ian.pdf" class="image fit"><img src="images/marr_pic.jpg" alt=""></a>
-
 
 
 {% include youtubePlayer.html id="JZO4I3XpZvc" %}
@@ -72,12 +70,6 @@ In this module we will walk the audience through how to aggregate the Ohio COI t
 [Module 3 slides](https://github.com/ChildrensOpportunityIndex/The-Ohio-Opportunity-Index-Project/raw/main/W13_ZipCode_Ian.pdf)
 
 
-<a href="ChildresOpportunityIndex.github.io/The-Ohio-Opportunity-Index-Project/raw/main/W13_ZipCode_Ian.pdf" target="_blank">PDF.</a>
-
-
-
-
-[Module 3 Video]
 
 </details>
 
