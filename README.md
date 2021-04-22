@@ -41,7 +41,8 @@ We will walk the audience through the construction of the Ohio COI based on the 
 
 {% include youtubePlayer.html id="yhYXBpB9tkM" %}
 
-[Modules 1 & 2 slides](https://github.com/ChildrensOpportunityIndex/The-Ohio-Opportunity-Index-Project/raw/main/AMIA_Slides.pptx)
+
+### [Modules 1 & 2 slides](https://github.com/ChildrensOpportunityIndex/The-Ohio-Opportunity-Index-Project/raw/main/AMIA_Slides.pptx)
 
 # Module 3
 
@@ -51,7 +52,8 @@ In this module we will walk the audience through how to aggregate the Ohio COI t
 
 {% include youtubePlayer.html id="JZO4I3XpZvc" %}
 
-[Module 3 slides](https://github.com/ChildrensOpportunityIndex/The-Ohio-Opportunity-Index-Project/raw/main/W13_ZipCode_Ian.pdf)
+
+### [Module 3 slides](https://github.com/ChildrensOpportunityIndex/The-Ohio-Opportunity-Index-Project/raw/main/W13_ZipCode_Ian.pdf)
 
 # Module 4
 
@@ -64,7 +66,8 @@ Our team used an iterative user-centered design approach to develop the Ohio COI
 
 {% include youtubePlayer.html id="Y7Ux5ia1FoE" %}
 
-[Module 4 slides](https://github.com/ChildrensOpportunityIndex/The-Ohio-Opportunity-Index-Project/raw/main/AMIA-presentationv2.pdf)
+
+### [Module 4 slides](https://github.com/ChildrensOpportunityIndex/The-Ohio-Opportunity-Index-Project/raw/main/AMIA-presentationv2.pdf)
 
 # Module 5
 
@@ -74,7 +77,8 @@ In this module, we describe real-life scenarios on how the Ohio COI can be used 
 
 {% include youtubePlayer.html id="xC6JFpjRc2k" %}
 
-[Module 5 slides](https://github.com/ChildrensOpportunityIndex/The-Ohio-Opportunity-Index-Project/raw/main/AMIA_PowerPoint_Template_2021%20CMS%20slides.pdf)
+
+### [Module 5 slides](https://github.com/ChildrensOpportunityIndex/The-Ohio-Opportunity-Index-Project/raw/main/AMIA_PowerPoint_Template_2021%20CMS%20slides.pdf)
 
 ## Discussion
 The evidence base for SDoH measures indicates their strong potential to influence the health outcomes of individuals and populations. Another emerging evidence base for data visualization suggests that systematic, user-centered development of tools such as dashboards result in sustainable and effective use of such tools by end-users. Our workshop will fill two critical gaps: 1) it will reveal the inner workings of an area-level SDoH measure; allowing audience members to understand and interpret such measures, which they can later explain to their stakeholders when developing similar measures; and 2) it will provide them with a set of tools on the systematic design, development, and deployment of dashboards to visualize and analyze the SDoH measure. 
