@@ -27,9 +27,6 @@ Individual factors alone have been insufficient in capturing determinants of dis
 This workshop is divided into the following modules: 1-Input, data selection, and extraction for the Ohio COI,; 2-Construction of the COI; 3-Aggregation of COI; 4-Visualization of the COI & 5-Application of the COI.
 
 # Modules 1 & 2
-
-<details>
-  <summary>Click to expand!</summary>
   
 Module 1: Input data selection and extraction for the Ohio COI
 
@@ -43,12 +40,10 @@ We will walk the audience through the construction of the Ohio COI based on the 
 2.	Demonstrate two approaches our team used for the development of the Ohio COI and explain the preference of one approach over the other. For the initial development of the Ohio COI, we followed a previously described approach [[5]](#5)[[6]](#6) of latent factor analysis to assign weights to each of the eight domains. Our team also used an approach where each domain was equally weighted. We will walk the audience through constructing the weighted and unweighted indices during our workshop. 
 3.	Show examples of how area level SDoH measures can be validated using existing measures that are publicly available. This will also involve describing results from our validation study of the Ohio COI by assessing its association with health indicators like life expectancy, and racial distribution. 
 
-
 {% include youtubePlayer.html id="yhYXBpB9tkM" %}
 
 [Modules 1 & 2 slides](https://github.com/ChildrensOpportunityIndex/The-Ohio-Opportunity-Index-Project/raw/main/AMIA_Slides.pptx)
 
-</details>
 
 # Module 3
 <details>
@@ -63,12 +58,7 @@ In this module we will walk the audience through how to aggregate the Ohio COI t
 [Module 3 slides](https://github.com/ChildrensOpportunityIndex/The-Ohio-Opportunity-Index-Project/raw/main/W13_ZipCode_Ian.pdf)
 
 
-</details>
-
 # Module 4
-
-<details>
-  <summary>Click to expand!</summary>
 
 ### Module 4: Visualization of the Ohio COI using Tableau
 Our team used an iterative user-centered design approach to develop the Ohio COI dashboard and used Tableau to create various components of the dashboard. In this module we will:
@@ -79,16 +69,11 @@ Our team used an iterative user-centered design approach to develop the Ohio COI
 
 {% include youtubePlayer.html id="Y7Ux5ia1FoE" %}
 
-
 [Module 4 slides](https://github.com/ChildrensOpportunityIndex/The-Ohio-Opportunity-Index-Project/raw/main/AMIA-presentationv2.pdf)
 
-</details>
 
 # Module 5
 
-<details>
-  <summary>Click to expand!</summary>
-  
 ### Module 5: Applications of the Ohio COI
 
 In this module, we describe real-life scenarios on how the Ohio COI can be used by key stakeholders. Our example pertains to a public health program manager trying to gain a better understanding of infant outcomes in certain geographic areas. In this example, we will demonstrate how the program manager can assess the Ohio COI and its individual domains, but also visually examine other characteristics of the areas under consideration like the race and ethnic make-up, the social vulnerability index, and the change in scores over time. 
@@ -97,8 +82,6 @@ In this module, we describe real-life scenarios on how the Ohio COI can be used 
 
 [Module 5 slides](https://github.com/ChildrensOpportunityIndex/The-Ohio-Opportunity-Index-Project/raw/main/AMIA_PowerPoint_Template_2021%20CMS%20slides.pdf)
 
-
-</details>
 
 ### Discussion
 The evidence base for SDoH measures indicates their strong potential to influence the health outcomes of individuals and populations. Another emerging evidence base for data visualization suggests that systematic, user-centered development of tools such as dashboards result in sustainable and effective use of such tools by end-users. Our workshop will fill two critical gaps: 1) it will reveal the inner workings of an area-level SDoH measure; allowing audience members to understand and interpret such measures, which they can later explain to their stakeholders when developing similar measures; and 2) it will provide them with a set of tools on the systematic design, development, and deployment of dashboards to visualize and analyze the SDoH measure. 
