@@ -34,12 +34,12 @@ This workshop is divided into the following modules: 1-Input, data selection, an
 <details>
   <summary>Click to expand!</summary>
   
-### Module 1: Input data selection and extraction for the Ohio COI
+Module 1: Input data selection and extraction for the Ohio COI
 
 In this module, we will discuss the decisions involved in the selection of input data for the construction of the Ohio COI. Further, we will describe the extraction of data from multiple sources and linkage of the information by Census Tract across data sets.
 
   
-### Module 2: Construction of the Ohio COI
+Module 2: Construction of the Ohio COI
 
 We will walk the audience through the construction of the Ohio COI based on the seminal approach that is the foundation for several well-known area level SDoH measures used internationally and in the US. [[5,6]](#5)(#6) In this module, we will:
 1.	Demonstrate the multi-step approach proposed by the authors of the seminal study, which we adapted for the Ohio COI using R and R Studio. This step will also involve showing the audience how to develop an area level SDoH measures for multiple time periods. 
