@@ -52,6 +52,10 @@ print("Hello, world!")
 
 ````
 
+![alt
+text](https://raw.githubusercontent.com/clustergarage/jekyll-code-tabs/master/docs/screencap.gif)
+
+
 # Modules 1 & 2
 <details>
   <summary>Click to expand!</summary>
