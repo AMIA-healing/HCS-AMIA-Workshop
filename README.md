@@ -28,12 +28,12 @@ This workshop is divided into the following modules: 1-Input, data selection, an
 
 # Modules 1 & 2
   
-Module 1: Input data selection and extraction for the Ohio COI
+## Module 1: Input data selection and extraction for the Ohio COI
 
 In this module, we will discuss the decisions involved in the selection of input data for the construction of the Ohio COI. Further, we will describe the extraction of data from multiple sources and linkage of the information by Census Tract across data sets.
 
   
-Module 2: Construction of the Ohio COI
+## Module 2: Construction of the Ohio COI
 
 We will walk the audience through the construction of the Ohio COI based on the seminal approach that is the foundation for several well-known area level SDoH measures used internationally and in the US.[[5]](#5)[[6]](#6) In this module, we will:
 1.	Demonstrate the multi-step approach proposed by the authors of the seminal study, which we adapted for the Ohio COI using R and R Studio. This step will also involve showing the audience how to develop an area level SDoH measures for multiple time periods. 
@@ -44,37 +44,34 @@ We will walk the audience through the construction of the Ohio COI based on the 
 
 [Modules 1 & 2 slides](https://github.com/ChildrensOpportunityIndex/The-Ohio-Opportunity-Index-Project/raw/main/AMIA_Slides.pptx)
 
-
 # Module 3
 <details>
   <summary>Click to expand!</summary>
 
-### Module 3: Ohio COI aggregation at Zip Code level 
-In this module we will walk the audience through how to aggregate the Ohio COI to the Zip Code level. A Zip Code is not an inherent geographic unit with defined boundaries, but a unique code used by the United State Postal Service to group addresses together to aid in mail delivery. Zip Codes are often used in public health to collect and report data because they are more common to the general public than geographic units such as the Census Tract. Zip Codes and Census Tracts do not share geographic commonalities which makes aggregating data collected at the Census Tract level to the Zip Code a challenge. We will demonstrate various geospatial approaches using Esri’s ArcGIS software to aggregate COI values to Zip Codes. These methods can also be used to aggregate data between any geographic units that do not share common boundaries (e.g. drive time radii and census tracts).
+## Module 3: Ohio COI aggregation at Zip Code level 
 
+In this module we will walk the audience through how to aggregate the Ohio COI to the Zip Code level. A Zip Code is not an inherent geographic unit with defined boundaries, but a unique code used by the United State Postal Service to group addresses together to aid in mail delivery. Zip Codes are often used in public health to collect and report data because they are more common to the general public than geographic units such as the Census Tract. Zip Codes and Census Tracts do not share geographic commonalities which makes aggregating data collected at the Census Tract level to the Zip Code a challenge. We will demonstrate various geospatial approaches using Esri’s ArcGIS software to aggregate COI values to Zip Codes. These methods can also be used to aggregate data between any geographic units that do not share common boundaries (e.g. drive time radii and census tracts).
 
 {% include youtubePlayer.html id="JZO4I3XpZvc" %}
 
 [Module 3 slides](https://github.com/ChildrensOpportunityIndex/The-Ohio-Opportunity-Index-Project/raw/main/W13_ZipCode_Ian.pdf)
 
-
 # Module 4
 
-### Module 4: Visualization of the Ohio COI using Tableau
+## Module 4: Visualization of the Ohio COI using Tableau
+
 Our team used an iterative user-centered design approach to develop the Ohio COI dashboard and used Tableau to create various components of the dashboard. In this module we will:
 1.	Discuss the choices and decisions made in regard to the content, function and aesthetics of the Ohio COI dashboard based on iterative feedback from project sponsors, also known a co-creation or user-centered design. We will provide the audience with a set of usability tools to systematically collect information from stakeholders to help improve the tool.  
 2.	Demonstrate the use of Tableau to visualize Ohio COI scores at the Census Tract level; display Ohio COI data calculated at different time points; display change in Ohio COI data between two time points; and compare relative positions for Census Tracts. 
 3.	Demostrate the visualization of Ohio COI and the race/ethnic distribution of the Ohio population, as well as, other publicly-available SDoH data like the Social Vulnerability Index (SVI). 
 
-
 {% include youtubePlayer.html id="Y7Ux5ia1FoE" %}
 
 [Module 4 slides](https://github.com/ChildrensOpportunityIndex/The-Ohio-Opportunity-Index-Project/raw/main/AMIA-presentationv2.pdf)
 
-
 # Module 5
 
-### Module 5: Applications of the Ohio COI
+## Module 5: Applications of the Ohio COI
 
 In this module, we describe real-life scenarios on how the Ohio COI can be used by key stakeholders. Our example pertains to a public health program manager trying to gain a better understanding of infant outcomes in certain geographic areas. In this example, we will demonstrate how the program manager can assess the Ohio COI and its individual domains, but also visually examine other characteristics of the areas under consideration like the race and ethnic make-up, the social vulnerability index, and the change in scores over time. 
 
@@ -82,8 +79,7 @@ In this module, we describe real-life scenarios on how the Ohio COI can be used 
 
 [Module 5 slides](https://github.com/ChildrensOpportunityIndex/The-Ohio-Opportunity-Index-Project/raw/main/AMIA_PowerPoint_Template_2021%20CMS%20slides.pdf)
 
-
-### Discussion
+## Discussion
 The evidence base for SDoH measures indicates their strong potential to influence the health outcomes of individuals and populations. Another emerging evidence base for data visualization suggests that systematic, user-centered development of tools such as dashboards result in sustainable and effective use of such tools by end-users. Our workshop will fill two critical gaps: 1) it will reveal the inner workings of an area-level SDoH measure; allowing audience members to understand and interpret such measures, which they can later explain to their stakeholders when developing similar measures; and 2) it will provide them with a set of tools on the systematic design, development, and deployment of dashboards to visualize and analyze the SDoH measure. 
 
 There is a critical need to incorporate research findings in to practice in this field. Current practices around SDoH indices need critical thought around development, communication, and use. Our five-module workshop – focused on data selection, construction, aggregation, visualization, and application – will help participants to gain expert insights on how to effectively engage in these vastly different aspects of deploying an area-level SDoH measure that leverages knowledge from multiple disciplines, that include informatics, geospatial science, public health, and user experience. Our tool can also be incorporated in to the electronic health record through FHIR and SMART applications, which will be the topic of a future workshop at AMIA. 
