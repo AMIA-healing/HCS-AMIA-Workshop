@@ -76,11 +76,14 @@ Our team used an iterative user-centered design approach to develop the Ohio COI
 2.	Demonstrate the use of Tableau to visualize Ohio COI scores at the Census Tract level; display Ohio COI data calculated at different time points; display change in Ohio COI data between two time points; and compare relative positions for Census Tracts. 
 3.	Demostrate the visualization of Ohio COI and the race/ethnic distribution of the Ohio population, as well as, other publicly-available SDoH data like the Social Vulnerability Index (SVI). 
 
+[Module 4 video]:
+
 {% include youtubePlayer.html id="Y7Ux5ia1FoE" %}
 
-[Module 4 slides](https://github.com/OEIcat/AMIA_Workshop/raw/Introduction/AMIA-presentationv2.pdf)
+https://github.com/ChildrensOpportunityIndex/The-Ohio-Opportunity-Index-Project/raw/main/AMIA-presentationv2.pdf
 
-[Module 4 video]
+[Module 4 slides](https://github.com/ChildrensOpportunityIndex/The-Ohio-Opportunity-Index-Project/raw/main/AMIA-presentationv2.pdf)
+
 
 </details>
 
