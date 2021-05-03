@@ -124,7 +124,7 @@ Environment and Planning A: Economy and Space.2006;38(1):169-185. doi:10.1068/a3
 
 <a id="7">[7]</a> 
 Daniel John Exeter, Jinfeng Zhao, Sue Crengle, Arier Lee, and Michael Browne (2017). 
-The New Zealand Indices of Multiple Deprivation (IMD): A new suite of indicators for social and health research in Aotearoa, New Zealand
+The New Zealand Indices of Multiple Deprivation (IMD): A new suite of indicators for social and health research in Aotearoa, New Zealand.
 PLoS One. 2017; 12(8): e0181260. 
 
 
