@@ -17,7 +17,7 @@
 ● Learn how public health agencies can use the information.
 
 ### Overivew
-Area-level measures of deprivation account for social determinants of health (SDoH) factors at the geographic level. These indices have been successfully used in other countries for resource allocation. The state of Ohio, through the Ohio Department of Medicaid, tasked researchers at the Ohio State University with the development of an area-level measure of SDoH relevant to children’s outcomes known as the Ohio Children’s Opportunity Index (COI). A dashboard tool for the visualization of COI to end-users was needed. The workshop covers the following modules: a. Input, data selection, and extraction for the Ohio COI, b. Construction of the COI: the compilation of 53 measures in eight domains to construct the COI, alternative approaches to weighting the COI: use of latent class analysis to combine the eight domains into the COI and equally-weighting all eight domains to construct the COI, c. Approaches to aggreate area-level indices of opportunity at the Zip Code level using ArcGIS, d. Visualization of COI using Tableau: visualizations to effectively present COI using Tableau, and e. Applications of COI: use cases of COI for end-users from public health agencies.
+Area-level measures of deprivation account for social determinants of health (SDoH) factors at the geographic level. These indices have been successfully used in other countries for resource allocation. The Ohio Department of Medicaid, the Ohio Department of Health, the Ohio Department of Higher Education and researchers at The Ohio State University collaborated to develop an area-level measure of SDoH relevant to children’s outcomes known as the Ohio Children’s Opportunity Index (COI). A dashboard tool for the visualization of COI to end-users was needed. The workshop covers the following modules: a. Input, data selection, and extraction for the Ohio COI, b. Construction of the COI: the compilation of 53 measures in eight domains to construct the COI, alternative approaches to weighting the COI: use of latent class analysis to combine the eight domains into the COI and equally-weighting all eight domains to construct the COI, c. Approaches to aggreate area-level indices of opportunity at the Zip Code level using ArcGIS, d. Visualization of COI using Tableau: visualizations to effectively present COI using Tableau, and e. Applications of COI: use cases of COI for end-users from public health agencies.
 
 The goal of our workshop is to present an approach for the development, visualization, and communication of an area-level deprivation measure that can be easily adopted by audience members to their own SDoH context and problems. Our approach, moreover, engenders a user-centered design philiosphy that engages key stakeholders as co-creators of our measures and their associated tools. This approach ensures their sustained and meaningful use over time, which we will also highlight during our workshop.
 
@@ -34,7 +34,7 @@ In this module, we will discuss the decisions involved in the selection of input
   
 ## Module 2: Construction of the Ohio COI
 
-We will walk the audience through the construction of the Ohio COI based on the seminal approach that is the foundation for several well-known area level SDoH measures used internationally and in the US.[[5]](#5)[[6]](#6) In this module, we will:
+We will walk the audience through the construction of the Ohio COI based on the seminal approach that is the foundation for several well-known area level SDoH measures used internationally and in the US.[[5]](#5)[[6]](#6)[[7]](#7) In this module, we will:
 1.	Demonstrate the multi-step approach proposed by the authors of the seminal study, which we adapted for the Ohio COI using R and R Studio. This step will also involve showing the audience how to develop an area level SDoH measures for multiple time periods. 
 2.	Demonstrate two approaches our team used for the development of the Ohio COI and explain the preference of one approach over the other. For the initial development of the Ohio COI, we followed a previously described approach [[5]](#5)[[6]](#6) of latent factor analysis to assign weights to each of the eight domains. Our team also used an approach where each domain was equally weighted. We will walk the audience through constructing the weighted and unweighted indices during our workshop. 
 3.	Show examples of how area level SDoH measures can be validated using existing measures that are publicly available. This will also involve describing results from our validation study of the Ohio COI by assessing its association with health indicators like life expectancy, and racial distribution. 
@@ -121,5 +121,12 @@ Nurs Stand. Jan 30;2(17):34. doi: 10.7748/ns.2.17.34.s66.
 Noble M, Wright G, Smith G, Dibben C.(2006). 
 Measuring Multiple Deprivation at the Small-Area Level.
 Environment and Planning A: Economy and Space.2006;38(1):169-185. doi:10.1068/a37168.
+
+<a id="7">[7]</a> 
+Daniel John Exeter, Jinfeng Zhao, Sue Crengle, Arier Lee, and Michael Browne (2017). 
+The New Zealand Indices of Multiple Deprivation (IMD): A new suite of indicators for social and health research in Aotearoa, New Zealand
+PLoS One. 2017; 12(8): e0181260. 
+
+
 
 
