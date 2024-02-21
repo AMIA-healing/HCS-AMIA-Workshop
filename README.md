@@ -3,7 +3,7 @@
 ## The Healing Communities Study
 
 ### Lessons learned and best practices from community opioid response
-#### Members: Ramona Olvera, PhD; Yiting Wang, MS; Michael Hayes, BA; Elizabeth Larimore, MS (Presenter); Peter Balvanz, MPH (Presenter); Ronald Langley, PhD; Corinna A. Noel, PhD; Peter Rock, MPH; Daniel Redmond, BA; Jessica L. Neufeld, MPH; Sarah Kosakowski, MPH; Daniel Harris, PhD (Presenter); Marc LaRochelle, MD MPH (Presenter); Timothy R. Huerta, PhD MS (Presenter); LaShawn Glasgow, DrPH; Emmanuel Oga, MD MPH; Jennifer Villani, PhD MPH; Elwin Wu, PhD (Presenter)
+#### Members: Ramona Olvera, PhD; Yiting Wang, MS; Michael Hayes, BA; Elizabeth Larimore, MS; Peter Balvanz, MPH (Presenter); Ronald Langley, PhD; Corinna A. Noel, PhD; Peter Rock, MPH; Daniel Redmond, BA; Jessica L. Neufeld, MPH; Sarah Kosakowski, MPH; Daniel Harris, PhD (Presenter); Marc LaRochelle, MD MPH (Presenter); Timothy R. Huerta, PhD MS (Presenter); LaShawn Glasgow, DrPH; Emmanuel Oga, MD MPH; Jennifer Villani, PhD MPH; Elwin Wu, PhD (Presenter)
 #### Organizer: Naleef Fareed, PhD, MBA
 
 ###### The HCS study is represented by The Ohio State University, University of Kentucky, Columbia University, Boston University, National Insitute on Drug Abuse, and RTI international. 
