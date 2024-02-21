@@ -77,16 +77,16 @@ Our implementation of the CTH data dashboards began in 2020, and our approach is
 
 ## Outputs
 <a id="1">[1]</a> 
-Massachusetts HCS public dashboard: [massopioiddata.com](https://massopioiddata.com/){:target="_blank"}
+Massachusetts HCS public dashboard: [massopioiddata.com](https://massopioiddata.com/)
 
 <a id="2">[2]</a> 
-Ohio Integrated Behavior Health dashboard: [data.ohio.gov/ohio-ibhd](https://data.ohio.gov/wps/portal/gov/data/view/ohio-ibhd){:target="_blank"}
+Ohio Integrated Behavior Health dashboard: [data.ohio.gov/ohio-ibhd](https://data.ohio.gov/wps/portal/gov/data/view/ohio-ibhd)
 
 <a id="3">[3]</a> 
-Ohio HCS Tableau workbook and synthetic data: [OhioHCSTableauWorkbook](https://public.tableau.com/views/OhioHCSTableauworkbook/Dashboard_charts?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link){:target="_blank"}
+Ohio HCS Tableau workbook and synthetic data: [OhioHCSTableauWorkbook](https://public.tableau.com/views/OhioHCSTableauworkbook/Dashboard_charts?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 
 <a id="4">[4]</a> 
-Kentucky dashboard github repo: [KY HCS dashboard github repo](https://github.com/UK-IPOP/DashboardFramework){:target="_blank"}
+Kentucky dashboard github repo: [KY HCS dashboard github repo](https://github.com/UK-IPOP/DashboardFramework)
 
 ## References
 <a id="1">[1]</a> 
