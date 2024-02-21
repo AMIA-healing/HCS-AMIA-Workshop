@@ -33,7 +33,7 @@ Once the use of data has been permitted by established DUAs, the logistics of ac
 
 {% include youtubePlayer.html id="yhYXBpB9tkM" %}
 
-### [Modules 1 & 2 slides](https://github.com/AMIA-healing/healing/blob/main/AMIA_Slides.pptx)
+### [Modules 1 slides](https://github.com/AMIA-healing/healing/blob/main/AMIA_Slides.pptx)
   
 # Module 2
 
@@ -43,7 +43,7 @@ Each of the four HCS research sites relied on their own unique set of technical 
 
 {% include youtubePlayer.html id="yhYXBpB9tkM" %}
 
-### [Modules 1 & 2 slides](https://github.com/AMIA-healing/healing/blob/main/AMIA_Slides.pptx)
+### [Modules 2 slides](https://github.com/AMIA-healing/healing/blob/main/AMIA_Slides.pptx)
 
 # Module 3
 
