@@ -114,17 +114,17 @@ Kummer BR, Willey JZ, Zelenetz MJ, Hu Y, Sengupta S, Elkind MSV, et al.
 Neurological dashboards and consultation turnaround time at an academic medical center. 
 Appl Clin Inform. 2019 Oct;10(5):849–58.
 
-<a id="8">[7]</a> 
+<a id="8">[8]</a> 
 Streeb D, El-Assady M, Keim DA, Chen M. 
 Why visualize? untangling a large network of arguments. 
 IEEE Trans Vis Comput Graph. 2021 Mar;27(3):2220–36.
 
-<a id="9">[7]</a> 
+<a id="9">[9]</a> 
 Vahedi A, Moghaddasi H, Asadi F, Hosseini AS, Nazemi E. 
 Applications, features and key indicators for the development of Covid-19 dashboards: A systematic review study. 
 Informatics in Medicine Unlocked. 2022 Mar 18;30:100910.
 
-<a id="10">[7]</a> 
+<a id="10">[10]</a> 
 Fareed, N, Singh, P, Jonnalagadda, P, Dunn, I, Swoboda, C. 
 Creating an area-level deprivation index and using a dashboard tool to communicate information about the index – a public health informatics workshop.
 American Medical Informatics Association Clinical Informatics Meeting. 2021 Github: https://childrensopportunityindex.github.io/The-Ohio-Opportunity-Index-Project/
