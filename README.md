@@ -1,6 +1,6 @@
 
 # The Ohio Opportunity Index Project
-## The Children's Opportunity Index
+## The Healing Communities Study
 
 ### Translating Research into Practice: construction, visualization, and applications of the Ohio Children’s Opportunity Index
 #### Members: Priti Singh[1], PhD, MS (Construction of COI); Ian Dunn[2], MPH, GISP (COI aggregation at Zip Code level); Pallavi Jonnalagadda[1], MBBS, DrPH (Visualization of COI using Tableau); and Christine Swoboda[1], PhD, MS (Applications of COI);
