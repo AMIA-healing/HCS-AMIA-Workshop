@@ -4,11 +4,11 @@
 
 ### Lessons learned and best practices from community opioid response
 #### Members: Ramona Olvera, PhD; Yiting Wang, MS; Michael Hayes, BA; Elizabeth Larimore, MS (Presenter); Peter Balvanz, MPH (Presenter); Ronald Langley, PhD; Corinna A. Noel, PhD; Peter Rock, MPH; Daniel Redmond, BA; Jessica L. Neufeld, MPH; Sarah Kosakowski, MPH; Daniel Harris, PhD (Presenter); Marc LaRochelle, MD MPH (Presenter); Timothy R. Huerta, PhD MS (Presenter); LaShawn Glasgow, DrPH; Emmanuel Oga, MD MPH; Jennifer Villani, PhD MPH; Elwin Wu, PhD (Presenter)
-#### Organizer: Naleef Fareed[1], PhD, MBA
+#### Organizer: Naleef Fareed, PhD, MBA
 
-###### [1]College of Medicine, The Ohio State University, Columbus, Ohio
-###### [2]
+###### The HCS study is represented by The Ohio State University, University of Kentucky, Columbia University, Boston University, National Insitute on Drug Abuse, and RTI international. 
 
+Funding: This research was supported by the National Institutes of Health and the Substance Abuse and Mental Health Services Administration through the NIH HEAL (Helping to End Addiction Long-termSM) Initiative under award numbers UM1DA049394, UM1DA049406, UM1DA049412, UM1DA049415, UM1DA049417 (ClinicalTrials.gov Identifier: NCT04111939). This study protocol (Pro00038088) was approved by Advarra Inc., the HEALing Communities Study single Institutional Review Board. We wish to acknowledge the participation of the HEALing Communities Study communities, community coalitions, and Community Advisory Boards and state government officials who partnered with us on this study. The content is solely the responsibility of the authors and does not necessarily represent the official views of the National Institutes of Health, the Substance Abuse and Mental Health Services Administration or the NIH HEAL Initiative.
 
 ### Areas of focus 
 ● Familiarize oneself with the important elements for developing a community data dashboard
