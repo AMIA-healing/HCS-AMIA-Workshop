@@ -1,13 +1,13 @@
 
-# The Ohio Opportunity Index Project
+# How to build effective data dashboards for community decision-making
 ## The Healing Communities Study
 
-### Translating Research into Practice: construction, visualization, and applications of the Ohio Children’s Opportunity Index
-#### Members: Priti Singh[1], PhD, MS (Construction of COI); Ian Dunn[2], MPH, GISP (COI aggregation at Zip Code level); Pallavi Jonnalagadda[1], MBBS, DrPH (Visualization of COI using Tableau); and Christine Swoboda[1], PhD, MS (Applications of COI);
-#### Study Lead: Naleef Fareed[1], PhD, MBA
+### Lessons learned and best practices from community opioid response
+#### Members: Ramona Olvera, PhD; Yiting Wang, MS; Michael Hayes, BA; Elizabeth Larimore, MS (Presenter); Peter Balvanz, MPH (Presenter); Ronald Langley, PhD; Corinna A. Noel, PhD; Peter Rock, MPH; Daniel Redmond, BA; Jessica L. Neufeld, MPH; Sarah Kosakowski, MPH; Daniel Harris, PhD (Presenter); Marc LaRochelle, MD MPH (Presenter); Timothy R. Huerta, PhD MS (Presenter); LaShawn Glasgow, DrPH; Emmanuel Oga, MD MPH; Jennifer Villani, PhD MPH; Elwin Wu, PhD (Presenter)
+#### Organizer: Naleef Fareed[1], PhD, MBA
 
 ###### [1]College of Medicine, The Ohio State University, Columbus, Ohio
-###### [2]Government Resource Center, The Ohio State University, Columbus, Ohio
+###### [2]
 
 
 ### Areas of focus 
@@ -17,116 +17,116 @@
 ● Learn how public health agencies can use the information.
 
 ### Overivew
-Area-level measures of deprivation account for social determinants of health (SDoH) factors at the geographic level. These indices have been successfully used in other countries for resource allocation. The Ohio Department of Medicaid, the Ohio Department of Health, the Ohio Department of Higher Education and researchers at The Ohio State University collaborated to develop an area-level measure of SDoH relevant to children’s outcomes known as the Ohio Children’s Opportunity Index (COI). A dashboard tool for the visualization of COI to end-users was needed. The workshop covers the following modules: a. Input, data selection, and extraction for the Ohio COI, b. Construction of the COI: the compilation of 53 measures in eight domains to construct the COI, alternative approaches to weighting the COI: use of latent class analysis to combine the eight domains into the COI and equally-weighting all eight domains to construct the COI, c. Approaches to aggreate area-level indices of opportunity at the Zip Code level using ArcGIS, d. Visualization of COI using Tableau: visualizations to effectively present COI using Tableau, and e. Applications of COI: use cases of COI for end-users from public health agencies.
+There is a notable dearth of scientific evidence that examine and document the approach to design and use dashboards in community settings.[[1-4]](#1) This is concerning because there is recognition that vast amounts of data are becoming freely accessible in the public health domain; albeit, challenges with comprehending these data persist. As part of the National HEALing Communities Study (HCS), the consortium of researchers developed the Communities That Heal (CTH) dashboards across four research sites: New York, Massachusetts, Kentucky, and Ohio, that were part of the HCS to support data driven decision-making for the opioid overdose crisis.[[5]](#5) Our team was involved in the community-centered design and implementation of these data dashboards and their sustained use beyond HCS.[[6]](#6)
 
-The goal of our workshop is to present an approach for the development, visualization, and communication of an area-level deprivation measure that can be easily adopted by audience members to their own SDoH context and problems. Our approach, moreover, engenders a user-centered design philiosphy that engages key stakeholders as co-creators of our measures and their associated tools. This approach ensures their sustained and meaningful use over time, which we will also highlight during our workshop.
+This workshop is divided into the following modules: Data acquisition and quality, co-designing dashboards, implementing and using dashboards in the community, best practices for dashboard use, and sustaining the enterprise. Our team will walk the audience through every step we undertook in the development of our CTH dashboards, including the acquisition of data, operationalization and specification of the data, design and refinement of dashboard components, and implementation and assessment of dashboard use across communities. We aim to provide audience members a hands-on experience needed to replicate our process for similar extensions specific to their work. We will foster a community of practice based on group discussions that will promote documentation and exchange of tools and ideas on the use of data dashboards for community decision-making.
 
 ### Introduction
-Individual factors alone have been insufficient in capturing determinants of disease thereby making the spatial context important. The relationship between deprivation in terms of place of residence, access to healthy food, water and sanitation, and health has been recognized for centuries. [[1]](#1) The high rate of infant mortality in Ohio,[[2]](#2)[[3]](#3) and the wide disparity in infant mortality rate between infants born to White and Black mothers [[3]](#3) provided the Ohio Department of Medicaid (ODM) with the impetus for the creation and visualization of the Ohio Opportunity Index (OI)[[4]](#4) and the Ohio Childrens Opportunity Index (COI) as part of the Infant Mortality Research Partnership. Our team has successfully presented the Ohio OI through an interactive analytical dashboard. [[4]](#4) The ODM indicated a similar dashboard for the Ohio COI. The Ohio COI is a measure of area-level SDoH composed of 53 measures spanning eight domains. Our team used an iterative and user-centered design approach to develop the Ohio COI dashboard.
-
-This workshop is divided into the following modules: 1-Input, data selection, and extraction for the Ohio COI,; 2-Construction of the COI; 3-Aggregation of COI; 4-Visualization of the COI & 5-Application of the COI.
 
 # Modules 1 & 2
   
-## Module 1: Input data selection and extraction for the Ohio COI
+## Module 1: Data acquisition and quality – Lead: Daniel Harris
 
-In this module, we will discuss the decisions involved in the selection of input data for the construction of the Ohio COI. Further, we will describe the extraction of data from multiple sources and linkage of the information by Census Tract across data sets.
+An effective dashboard depends upon meaningful and timely data. There are many publicly available reports related to the opioid overdose crisis; these are free to use, simple to adopt, yet may not be timely or available at the community level. The timeliest and contextually relevant data may be available through establishing partnerships with state and local governments; data acquisition is an understated barrier of effective dashboards. A data use agreement (DUA) between research teams and external partners outlines the expectations and fair use of shared data. We will discuss and give examples of key elements that DUAs should contain for the protection of both partners. This includes establishing who specifically the partners are and what specific data elements are to be shared. Stipulations for secondary sharing of data and/or aggregated findings must be established. To protect the privacy of individuals, a partner may require the suppression of data points meeting some type of condition, such as aggregate counts smaller than a stated threshold. Furthermore, care must be given to avoid situations where a suppressed total would be deducible from other non-suppressed totals.
+
+Once the use of data has been permitted by established DUAs, the logistics of acquiring data must be sorted out with partners, who may operate at different levels of technical sophistication. We will summarize different techniques for acquiring data and summarize their impact on automation. We will discuss transmission of data via e-mail, file transfer, and application programming interfaces (APIs) and their interactions with common data automation tools. The data acquired from partners is largely raw data that needs processing and analyzed into the specific measurable data points needed by the dashboards. Dashboard creation may be streamlined by standardizing the research study's measures into a common data model; we will discuss the HCS common data model and how different concepts (e.g., overdose deaths, naloxone distributions, and opioid prescriptions) may utilize the same data structure. We will also cover data linkage and harmonization as part of this discussion. Data quality checks are required at each step of the pipeline from receiving data, analyses, and publishing data to the dashboards; we will discuss how these may be automated as part of a comprehensive data pipeline, including rules, completeness, accuracy, consistency of data elements, and actions taken to address such issues. We will discuss the tradeoffs between ethics and implementation at different stages of dashboard design; we will highlight key ethical considerations related to data collection, storage, and sharing as part of this process
   
-## Module 2: Construction of the Ohio COI
+## Module 2: Co-designing dashboards – Lead: Elwin Wu
 
-We will walk the audience through the construction of the Ohio COI based on the seminal approach that is the foundation for several well-known area level SDoH measures used internationally and in the US.[[5]](#5)[[6]](#6)[[7]](#7) In this module, we will:
-1.	Demonstrate the multi-step approach proposed by the authors of the seminal study, which we adapted for the Ohio COI using R and R Studio. This step will also involve showing the audience how to develop an area level SDoH measures for multiple time periods. 
-2.	Demonstrate two approaches our team used for the development of the Ohio COI and explain the preference of one approach over the other. For the initial development of the Ohio COI, we followed a previously described approach [[7]](#7)[[6]](#6) of latent factor analysis to assign weights to each of the eight domains. Our team also used an approach where each domain was equally weighted. We will walk the audience through constructing the weighted and unweighted indices during our workshop. 
-3.	Show examples of how area level SDoH measures can be validated using existing measures that are publicly available. This will also involve describing results from our validation study of the Ohio COI by assessing its association with health indicators like life expectancy, and racial distribution. 
+Each of the four HCS research sites relied on their own unique set of technical approaches and solutions to develop, publish, and manage the data dashboards. Albeit, all of the sites were required to conform to some high level principles (e.g., user-centered design at first, human-centered design by the end of the study), study requirements (e.g., minimum set of required/key metrics, access privileges and account management/monitoring, compliance with HCS style guide), and phases of development that allowed for communities to provide input into the common and local preferences (e.g., design, content, and functions of the dashboard and elements within data visualizations), a process that results in what the HCS has designated as “co-creation of dashboards.” This module will compare and contrast the experience from the four sites, and discuss considerations, insights, lessons learned, and best practices with respect to software and design considerations; eliciting, responding to, challenges, and solutions to the co-creation process; and how all of these relate and interact from a human-centered design perspective.
 
 {% include youtubePlayer.html id="yhYXBpB9tkM" %}
 
-
-### [Modules 1 & 2 slides](https://github.com/ChildrensOpportunityIndex/The-Ohio-Opportunity-Index-Project/raw/main/AMIA_Slides.pptx)
+### [Modules 1 & 2 slides](https://github.com/AMIA-healing/healing/blob/main/AMIA_Slides.pptx)
 
 # Module 3
 
-## Module 3: Ohio COI aggregation at Zip Code level 
+## Module 3: Implementing and using dashboards in the community – Leads: Marc LaRochelle and Peter Balvanz 
 
-In this module we will walk the audience through how to aggregate the Ohio COI to the Zip Code level. A Zip Code is not an inherent geographic unit with defined boundaries, but a unique code used by the United State Postal Service to group addresses together to aid in mail delivery. Zip Codes are often used in public health to collect and report data because they are more common to the general public than geographic units such as the Census Tract. Zip Codes and Census Tracts do not share geographic commonalities which makes aggregating data collected at the Census Tract level to the Zip Code a challenge. We will demonstrate various geospatial approaches using Esri’s ArcGIS software to aggregate COI values to Zip Codes. These methods can also be used to aggregate data between any geographic units that do not share common boundaries (e.g. drive time radii and census tracts).
+Password-protected dashboards were introduced to HCS communities by community-specific data managers hired to share data and promote data driven decision-making. Community coalition rosters were consulted to provide dashboard access, and new members could request access. For most communities, dashboard introduction occurred during monthly coalition meetings when data managers could provide an orientation to the tool; dashboards were revisited monthly during coalition meetings to note new trends to discuss. We identified numerous barriers and facilitators to use through interviews with coalition members and community staff, as well as debriefs with implementing staff. Barriers included accessibility of dashboard, poor timing of data delivery, lack of utility, time constraints, and misalignment of dashboard as a tool. Facilitators included staff support to access and navigate dashboards as well as staff explaining trends they see. As a result of these lessons, numerous changes were introduced at the study and site-specific level. This module will provide qualitative evidence based on exemplary quotes from end-users for the themes identified as barriers and facilitators to dashboard use. We will also present an example from one of the sites, Massachusetts, where a process was developed that was staged and engaging to the communities to facilitate the introduction of the data to start a discussion on the gaps in opioid use disorder services revealed by the data and opportunities which the intervention could address.
 
 {% include youtubePlayer.html id="JZO4I3XpZvc" %}
 
 
-### [Module 3 slides](https://github.com/ChildrensOpportunityIndex/The-Ohio-Opportunity-Index-Project/raw/main/W13_ZipCode_Ian.pdf)
+### [Module 3 slides](https://github.com/AMIA-healing/healing/blob/main/W13_ZipCode_Ian.pdf)
 
 # Module 4
 
-## Module 4: Visualization of the Ohio COI using Tableau
+## Module 4: Best practices for dashboard use – Leads: Naleef Fareed and Tim Huerta
 
-Our team used an iterative user-centered design approach to develop the Ohio COI dashboard and used Tableau to create various components of the dashboard. In this module we will:
-1.	Discuss the choices and decisions made in regard to the content, function and aesthetics of the Ohio COI dashboard based on iterative feedback from project sponsors, also known a co-creation or user-centered design. We will provide the audience with a set of usability tools to systematically collect information from stakeholders to help improve the tool.  
-2.	Demonstrate the use of Tableau to visualize Ohio COI scores at the Census Tract level; display Ohio COI data calculated at different time points; display change in Ohio COI data between two time points; and compare relative positions for Census Tracts. 
-3.	Demostrate the visualization of Ohio COI and the race/ethnic distribution of the Ohio population, as well as, other publicly-available SDoH data like the Social Vulnerability Index (SVI). 
+Our team used a mixed-methods approach to collect formative data on the usability of the HCS dashboards across communities from all four sites. This module will discuss the design of the study and, as a follow-up to many of the themes noted in module 3, describe prioritized gaps in the usability of the dashboards and a set of best practices in data dashboard design and use for community end-users – including a pragmatic postmortem of our intended goals around co-creation of dashboards as noted in module 2. We will describe important themes that highlight the delicate balance between prioritizing community needs and research goals when introducing dashboard interventions in this module. Audience members will also be provided with tabletop examples of different formats of data visualizations around a set of metrics to demonstrate use of heuristics to establish preferred design considerations.
 
 {% include youtubePlayer.html id="cZtUb7JcxHM" %}
 
 
-### [Module 4 slides](https://github.com/ChildrensOpportunityIndex/The-Ohio-Opportunity-Index-Project/raw/main/AMIA-presentationv2.pdf)
+### [Module 4 slides](https://github.com/AMIA-healing/healing/blob/main/AMIA%20IS24_HCS%20Module4.pptx)
 
 # Module 5
 
-## Module 5: Applications of the Ohio COI
+## Module 5: Sustaining the dashboard enterprise – Leads: Site Leads (Huerta, LaRochelle, Wu, Harris)
 
-In this module, we describe real-life scenarios on how the Ohio COI can be used by key stakeholders. Our example pertains to a public health program manager trying to gain a better understanding of infant outcomes in certain geographic areas. In this example, we will demonstrate how the program manager can assess the Ohio COI and its individual domains, but also visually examine other characteristics of the areas under consideration like the race and ethnic make-up, the social vulnerability index, and the change in scores over time. 
+In this module, we describe three dissemination tools from our work to support community-based decisionmaking projects. We will describe and discuss the use of these tools in different public health scenarios. From our discussion with the audience, we aim to capture critical strategies for local buy-in for sustaining the use of dashboards. This real time feedback will subsequently be integrated in our dissemination toolkit that will be shared with the AMIA community for future reference.
 
 {% include youtubePlayer.html id="xC6JFpjRc2k" %}
 
 
-### [Module 5 slides](https://github.com/ChildrensOpportunityIndex/The-Ohio-Opportunity-Index-Project/raw/main/AMIA_PowerPoint_Template_2021%20CMS%20slides.pdf)
+### [Module 5 slides](https://github.com/AMIA-healing/healing/blob/main/AMIA%20IS24_HCS%20Module5.pptx)
 
 ## Discussion 
-The evidence base for SDoH measures indicates their potential to influence the health outcomes of individuals and populations. Another emerging evidence base for data visualization suggests that systematic, user-centered development of tools such as dashboards result in sustainable and effective use of such tools by end-users. Our workshop will fill two critical gaps: 1) it will reveal the inner workings of an area-level SDoH measure; allowing audience members to understand and interpret such measures, which they can later explain to their stakeholders when developing similar measures; and 2) it will provide them with a set of tools on the systematic design, development, and deployment of dashboards to visualize and analyze the SDoH measure. 
-
-There is a critical need to incorporate research findings in to practice in this field. Current practices around SDoH indices need critical thought around development, communication, and use. Our five-module workshop – focused on data selection, construction, aggregation, visualization, and application – will help participants to gain expert insights on how to effectively engage in these vastly different aspects of deploying an area-level SDoH measure that leverages knowledge from multiple disciplines, that include informatics, geospatial science, public health, and user experience. Our tool can also be incorporated in to the electronic health record through FHIR and SMART (using a SMART-Fast Healthcare Interoperability Resources (FHIR) interface) applications, which will be the topic of a future workshop at AMIA. 
+Dashboards can be an evidence-based approach to influence public awareness, decision-making, and for focusing resources and interventions in health care for specific populations.[[7,8]](#7) For example, public health agencies across the nation have communicated health data about the COVID-19 pandemic through dashboards – using these as tools to generate awareness and motivate behavior change.[[2,3,9]](#2) Additional applications of dashboards in the community include monitoring vaccine distribution and food insecurity. Our workshop will fill two critical gaps: 1) increase audience awareness of the inner workings of maintaining community dashboards across diverse communities; allowing audience members to identify and learn about mission critical factors that they can subsequently explain to their stakeholders when developing similar platforms; and 2) provide the audience with a set of tools on the pragmatic and systematic design, development, and deployment of data dashboards to support data driven community decision-making. There is a critical need to incorporate best practices in this field. Current practices around community dashboard development and use need thoughtful approaches that support meaningful use of these tools and data visualized, and ensure sustained, engaged use among community end-users. Our five-module workshop -- focused on data acquisition and quality, co-design of dashboards, and implementation and sustained use of dashboards – will help participants gain expert insight on how to effectively engage with these critical concepts on community dashboard development that leverage knowledge from multiple disciplines (informatics, public and community health, clinical and behavioral health, social work, and user experience) and unique applications from the four HCS sites. The duration of Module 1, 4, and 5 will be approximately 40 mins and the remaining time allocated for the other modules.
 
 ### Conclusion
-Our implementation of the state-wide COI began in 2019, and is noteworthy because of its state-wide impact and its intended use by diverse stakeholders, which include policy makers, community health workers, and providers. Our efforts to disseminate our experience will help maximize the benefits of using similar area-level SDoH indices in other settings. The anticipated audience includes informatics researchers, IT developers, health providers, and public health analysts. 
-
+Our implementation of the CTH data dashboards began in 2020, and our approach is noteworthy because of the national impact and the intended use across diverse communities. The CTH dashboards have a broad reach among several stakeholder groups, which include policy makers and community and public health practitioners. Our efforts to develop a community of practice and disseminate our experience will maximize the benefits of using community data dashboards in other settings. The anticipated audience includes informatics researchers, public health professionals, community health practitioners, and IT developers. Participants are not expected to have any prerequisite skills in developing data dashboards. Participants will be encouraged to share their insights on developing similar dashboards to enhance the collective knowledge of the audience and foster a community of practice beyond the workshop session. The panel organizer can confirm that all panel members have agreed to participate in this workshop at the conference. All panel members have collaborated on the HCS national portal and dashboard work group for the past three years and have expert knowledge with community dashboard design and implementation. Dr. Fareed, the moderator, has experience with successfully leading an AMIA workshop focused on community specific dashboard design and use.[[10]](#10)
 
 ## References
 <a id="1">[1]</a> 
-Rosen, G. (1958). 
-MD monographs on medical history. 
-A history of public health, Vol 1, 147-148.
-MD Publications. https://doi.org/10.1037/11322-000
+Lange SJ, Moore LV, Galuska DA. 
+Data for Decision-Making: Exploring the Division of Nutrition, Physical Activity, and Obesity’s Data, Trends, and Maps. 
+Prev Chronic Dis. 2019 Sep 26;16:E131.
 
 <a id="2">[2]</a> 
-Infant Mortality Rates by States. (2019). 
-Center for Disease Control and Prevention
-https://www.cdc.gov/nchs/pressroom/sosmap/infant_mortality_rates/infant_mortality.htm.
+Fareed N, Swoboda CM, Chen S, Potter E, Wu DTY, Sieck CJ. 
+U.S. COVID-19 State Government Public Dashboards: An Expert Review. 
+Appl Clin Inform. 2021 Mar;12(2):208–21.
 
 <a id="3">[3]</a> 
-Infant Mortality Report.(2018). 
-Ohio Departement of Health 
-https://odh.ohio.gov/wps/wcm/connect/gov/dd1865c0-909c-4378-a8e0-61e28364bbae/2018+Ohio+Infant+Mortality+Report.pdf?MOD=AJPERES&CONVERT_TO=url&CACHEID=ROOTWORKSPACE.Z18_M1HGGIK0N0JO00QO9DDDDM3000-dd1865c0-909c-4378-a8e0-61e28364bbae-n1Z1tQk
+Dixon BE, Grannis SJ, McAndrews C, Broyles AA, Mikels-Carrasco W, Wiensch A, et al. 
+Leveraging data visualization and a statewide health information exchange to support COVID-19 surveillance and response: Application of public health informatics. 
+J Am Med Inform Assoc. 2021 Jul 14;28(7):1363–73.
 
 <a id="4">[4]</a> 
-Fareed N, Swoboda CM, Jonnalagadda P, Griesenbrock T, Gureddygari HR, Aldrich A.(2020). 
-Visualizing Opportunity Index Data Using a Dashboard Application: A Tool to Communicate Infant Mortality based Area Deprivation Index Information.
-https://odh.ohio.gov/wps/wcm/connect/gov/dd1865c0-909c-4378-a8e0-61e28364bbae/2018+Ohio+Infant+Mortality+Report.pdf?MOD=AJPERES&CONVERT_TO=url&
-Applied Clinical Informatics, 11(04): 515-527
+Everts J. 
+The dashboard pandemic. 
+Dialogues in Human Geography. 2020 Jun 17;204382062093535.
 
 <a id="5">[5]</a> 
-Townsend P, Phillimore P, Beattie A. (1988). 
-Health and Deprivation : Inequality and the North..
-Nurs Stand. Jan 30;2(17):34. doi: 10.7748/ns.2.17.34.s66. 
+Chandler RK, Villani J, Clarke T, McCance-Katz EF, Volkow ND. 
+Addressing opioid overdose deaths: The vision for the HEALing communities study. 
+Drug Alcohol Depend. 2020 Dec 1;217:108329.
 
 <a id="6">[6]</a> 
-Noble M, Wright G, Smith G, Dibben C.(2006). 
-Measuring Multiple Deprivation at the Small-Area Level.
-Environment and Planning A: Economy and Space.2006;38(1):169-185. doi:10.1068/a37168.
+Wu E, Villani J, Davis A, Fareed N, Harris DR, Huerta TR, et al. 
+Community dashboards to support datainformed decision-making in the HEALing communities study. 
+Drug Alcohol Depend. 2020 Dec 1;217:108331.
 
 <a id="7">[7]</a> 
-Daniel John Exeter, Jinfeng Zhao, Sue Crengle, Arier Lee, and Michael Browne (2017). 
-The New Zealand Indices of Multiple Deprivation (IMD): A new suite of indicators for social and health research in Aotearoa, New Zealand.
-PLoS One. 2017; 12(8): e0181260. 
+Kummer BR, Willey JZ, Zelenetz MJ, Hu Y, Sengupta S, Elkind MSV, et al. 
+Neurological dashboards and consultation turnaround time at an academic medical center. 
+Appl Clin Inform. 2019 Oct;10(5):849–58.
 
+<a id="8">[7]</a> 
+Streeb D, El-Assady M, Keim DA, Chen M. 
+Why visualize? untangling a large network of arguments. 
+IEEE Trans Vis Comput Graph. 2021 Mar;27(3):2220–36.
 
+<a id="9">[7]</a> 
+Vahedi A, Moghaddasi H, Asadi F, Hosseini AS, Nazemi E. 
+Applications, features and key indicators for the development of Covid-19 dashboards: A systematic review study. 
+Informatics in Medicine Unlocked. 2022 Mar 18;30:100910.
+
+<a id="10">[7]</a> 
+Fareed, N, Singh, P, Jonnalagadda, P, Dunn, I, Swoboda, C. 
+Creating an area-level deprivation index and using a dashboard tool to communicate information about the index – a public health informatics workshop.
+American Medical Informatics Association Clinical Informatics Meeting. 2021 Github: https://childrensopportunityindex.github.io/The-Ohio-Opportunity-Index-Project/
 
 
