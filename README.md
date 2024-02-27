@@ -21,10 +21,6 @@ There is a notable dearth of scientific evidence that examine and document the a
 
 This workshop is divided into the following modules: Data acquisition and quality, co-designing dashboards, implementing and using dashboards in the community, best practices for dashboard use, and sustaining the enterprise. Our team will walk the audience through every step we undertook in the development of our CTH dashboards, including the acquisition of data, operationalization and specification of the data, design and refinement of dashboard components, and implementation and assessment of dashboard use across communities. We aim to provide audience members a hands-on experience needed to replicate our process for similar extensions specific to their work. We will foster a community of practice based on group discussions that will promote documentation and exchange of tools and ideas on the use of data dashboards for community decision-making.
 
-### Introduction
-
-{% include youtubePlayer.html id="yhYXBpB9tkM" %}
-
 # Module 1
   
 ## Module 1: Data acquisition and quality – Lead: Daniel Harris
