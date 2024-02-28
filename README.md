@@ -6,7 +6,7 @@
 #### Members: Ramona Olvera, PhD; Yiting Wang, MS; Michael Hayes, BA; Elizabeth Larimore, MS; Peter Balvanz, MPH (Presenter); Ronald Langley, PhD; Corinna A. Noel, PhD; Peter Rock, MPH; Daniel Redmond, BA; Jessica L. Neufeld, MPH; Sarah Kosakowski, MPH; Daniel Harris, PhD (Presenter); Marc LaRochelle, MD MPH (Presenter); Timothy R. Huerta, PhD MS (Presenter); LaShawn Glasgow, DrPH; Emmanuel Oga, MD MPH; Jennifer Villani, PhD MPH; Elwin Wu, PhD (Presenter)
 #### Organizer: Naleef Fareed, PhD, MBA
 
-###### The HCS study is represented by The Ohio State University, University of Kentucky, Columbia University, Boston University, National Insitute on Drug Abuse, and RTI international. 
+###### The HCS study is represented by members from The Ohio State University, University of Kentucky, Columbia University, Boston University, National Insitute on Drug Abuse, and RTI international. 
 
 Funding: This research was supported by the National Institutes of Health and the Substance Abuse and Mental Health Services Administration through the NIH HEAL (Helping to End Addiction Long-termSM) Initiative under award numbers UM1DA049394, UM1DA049406, UM1DA049412, UM1DA049415, UM1DA049417 (ClinicalTrials.gov Identifier: NCT04111939). This study protocol (Pro00038088) was approved by Advarra Inc., the HEALing Communities Study single Institutional Review Board. We wish to acknowledge the participation of the HEALing Communities Study communities, community coalitions, and Community Advisory Boards and state government officials who partnered with us on this study. The content is solely the responsibility of the authors and does not necessarily represent the official views of the National Institutes of Health, the Substance Abuse and Mental Health Services Administration or the NIH HEAL Initiative.
 
@@ -35,7 +35,7 @@ Once the use of data has been permitted by established DUAs, the logistics of ac
   
 # Module 2
 
-## Module 2: Co-designing dashboards – Lead: Elwin Wu
+## Module 2: Co-designing dashboards 
 
 Each of the four HCS research sites relied on their own unique set of technical approaches and solutions to develop, publish, and manage the data dashboards. Albeit, all of the sites were required to conform to some high level principles (e.g., user-centered design at first, human-centered design by the end of the study), study requirements (e.g., minimum set of required/key metrics, access privileges and account management/monitoring, compliance with HCS style guide), and phases of development that allowed for communities to provide input into the common and local preferences (e.g., design, content, and functions of the dashboard and elements within data visualizations), a process that results in what the HCS has designated as “co-creation of dashboards.” This module will compare and contrast the experience from the four sites, and discuss considerations, insights, lessons learned, and best practices with respect to software and design considerations; eliciting, responding to, challenges, and solutions to the co-creation process; and how all of these relate and interact from a human-centered design perspective.
 
@@ -43,7 +43,7 @@ Each of the four HCS research sites relied on their own unique set of technical 
 
 # Module 3
 
-## Module 3: Implementing and using dashboards in the community – Leads: Marc LaRochelle and Peter Balvanz 
+## Module 3: Implementing and using dashboards in the community 
 
 Password-protected dashboards were introduced to HCS communities by community-specific data managers hired to share data and promote data driven decision-making. Community coalition rosters were consulted to provide dashboard access, and new members could request access. For most communities, dashboard introduction occurred during monthly coalition meetings when data managers could provide an orientation to the tool; dashboards were revisited monthly during coalition meetings to note new trends to discuss. We identified numerous barriers and facilitators to use through interviews with coalition members and community staff, as well as debriefs with implementing staff. Barriers included accessibility of dashboard, poor timing of data delivery, lack of utility, time constraints, and misalignment of dashboard as a tool. Facilitators included staff support to access and navigate dashboards as well as staff explaining trends they see. As a result of these lessons, numerous changes were introduced at the study and site-specific level. This module will provide qualitative evidence based on exemplary quotes from end-users for the themes identified as barriers and facilitators to dashboard use. We will also present an example from one of the sites, Massachusetts, where a process was developed that was staged and engaging to the communities to facilitate the introduction of the data to start a discussion on the gaps in opioid use disorder services revealed by the data and opportunities which the intervention could address.
 
@@ -51,7 +51,7 @@ Password-protected dashboards were introduced to HCS communities by community-sp
 
 # Module 4
 
-## Module 4: Best practices for dashboard use – Leads: Naleef Fareed and Tim Huerta
+## Module 4: Best practices for dashboard use 
 
 Our team used a mixed-methods approach to collect formative data on the usability of the HCS dashboards across communities from all four sites. This module will discuss the design of the study and, as a follow-up to many of the themes noted in module 3, describe prioritized gaps in the usability of the dashboards and a set of best practices in data dashboard design and use for community end-users – including a pragmatic postmortem of our intended goals around co-creation of dashboards as noted in module 2. We will describe important themes that highlight the delicate balance between prioritizing community needs and research goals when introducing dashboard interventions in this module. Audience members will also be provided with tabletop examples of different formats of data visualizations around a set of metrics to demonstrate use of heuristics to establish preferred design considerations.
 
@@ -59,7 +59,7 @@ Our team used a mixed-methods approach to collect formative data on the usabilit
 
 # Module 5
 
-## Module 5: Sustaining the dashboard enterprise – Leads: Site Leads (Huerta, LaRochelle, Wu, Harris)
+## Module 5: Sustaining the dashboard enterprise
 
 In this module, we describe three dissemination tools from our work to support community-based decisionmaking projects. We will describe and discuss the use of these tools in different public health scenarios. From our discussion with the audience, we aim to capture critical strategies for local buy-in for sustaining the use of dashboards. This real time feedback will subsequently be integrated in our dissemination toolkit that will be shared with the AMIA community for future reference.
 
@@ -73,7 +73,7 @@ Dashboards can be an evidence-based approach to influence public awareness, deci
 ### Conclusion
 Our implementation of the CTH data dashboards began in 2020, and our approach is noteworthy because of the national impact and the intended use across diverse communities. The CTH dashboards have a broad reach among several stakeholder groups, which include policy makers and community and public health practitioners. Our efforts to develop a community of practice and disseminate our experience will maximize the benefits of using community data dashboards in other settings. Participants will be encouraged to share their insights on developing similar dashboards to enhance the collective knowledge of the audience and foster a community of practice beyond the workshop session. All panel members have collaborated on the HCS national portal and dashboard work group for the past three years and have expert knowledge with community dashboard design and implementation.
 
-## Outputs
+## Workshop Outputs
 <a id="1">[1]</a> 
 Massachusetts HCS public dashboard: [massopioiddata.com](https://massopioiddata.com/)
 
