@@ -63,7 +63,7 @@ Our team used a mixed-methods approach to collect formative data on the usabilit
 
 In this module, we describe three dissemination tools from our work to support community-based decisionmaking projects. We will describe and discuss the use of these tools in different public health scenarios. From our discussion with the audience, we aim to capture critical strategies for local buy-in for sustaining the use of dashboards. This real time feedback will subsequently be integrated in our dissemination toolkit that will be shared with the AMIA community for future reference.
 
-A summary of the discussion that took place at the workshop will be included post-workshop. 
+A summary of the discussion from the AMIA IS 2024 workshop will be included post-workshop. 
 
 ### [Module 5 slides](https://github.com/AMIA-healing/healing/blob/main/AMIA%20IS24_HCS%20Module5.pptx)
 
