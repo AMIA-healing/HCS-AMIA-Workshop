@@ -29,7 +29,7 @@ An effective dashboard depends upon meaningful and timely data. There are many p
 
 Once the use of data has been permitted by established DUAs, the logistics of acquiring data must be sorted out with partners, who may operate at different levels of technical sophistication. We will summarize different techniques for acquiring data and summarize their impact on automation. We will discuss transmission of data via e-mail, file transfer, and application programming interfaces (APIs) and their interactions with common data automation tools. The data acquired from partners is largely raw data that needs processing and analyzed into the specific measurable data points needed by the dashboards. Dashboard creation may be streamlined by standardizing the research study's measures into a common data model; we will discuss the HCS common data model and how different concepts (e.g., overdose deaths, naloxone distributions, and opioid prescriptions) may utilize the same data structure. We will also cover data linkage and harmonization as part of this discussion. Data quality checks are required at each step of the pipeline from receiving data, analyses, and publishing data to the dashboards; we will discuss how these may be automated as part of a comprehensive data pipeline, including rules, completeness, accuracy, consistency of data elements, and actions taken to address such issues. We will discuss the tradeoffs between ethics and implementation at different stages of dashboard design; we will highlight key ethical considerations related to data collection, storage, and sharing as part of this process.
 
-### [Modules 1 slides](https://github.com/AMIA-healing/healing/blob/main/AMIA%20IS24_HCS%20Module1.pptx)
+### [Modules 1 slides](https://github.com/AMIA-healing/HCS-AMIA-Workshop/blob/main/AMIA%20IS24_HCS%20Module%201.pptx)
   
 # Module 2
 
@@ -37,7 +37,7 @@ Once the use of data has been permitted by established DUAs, the logistics of ac
 
 Each of the four HCS research sites relied on their own unique set of technical approaches and solutions to develop, publish, and manage the data dashboards. Albeit, all of the sites were required to conform to some high level principles (e.g., user-centered design at first, human-centered design by the end of the study), study requirements (e.g., minimum set of required/key metrics, access privileges and account management/monitoring, compliance with HCS style guide), and phases of development that allowed for communities to provide input into the common and local preferences (e.g., design, content, and functions of the dashboard and elements within data visualizations), a process that results in what the HCS has designated as “co-creation of dashboards.” This module will compare and contrast the experience from the four sites, and discuss considerations, insights, lessons learned, and best practices with respect to software and design considerations; eliciting, responding to, challenges, and solutions to the co-creation process; and how all of these relate and interact from a human-centered design perspective.
 
-### [Modules 2 slides](https://github.com/AMIA-healing/healing/blob/main/AMIA_Slides.pptx)
+### [Modules 2 slides](https://github.com/AMIA-healing/HCS-AMIA-Workshop/blob/main/AMIA%20IS24_HCS%20Module2.pptx)
 
 # Module 3
 
