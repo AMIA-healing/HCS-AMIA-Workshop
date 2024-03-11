@@ -84,6 +84,9 @@ Ohio Integrated Behavior Health dashboard: [data.ohio.gov/ohio-ibhd](https://dat
 Ohio HCS Tableau workbook and synthetic data: [OhioHCSTableauWorkbook](https://public.tableau.com/views/OhioHCSTableauworkbook/Dashboard_charts?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 
 <a id="4">[4]</a> 
+New York HCS public dashboard: [NY HCS dashboard](https://hcs.columbia.edu/demo/dashboards)
+
+<a id="5">[5]</a> 
 Kentucky dashboard github repo: [KY HCS dashboard github repo](https://github.com/UK-IPOP/DashboardFramework)
 
 ## References
